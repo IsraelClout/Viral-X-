@@ -1,0 +1,6 @@
+{
+  "name": "Viral X",
+  "description": "Ghana's premier social media and creator platform with authentic engagement rewards, mobile money withdrawals, and creator analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
